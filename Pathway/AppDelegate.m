@@ -7,13 +7,24 @@
 //
 
 #import "AppDelegate.h"
+#import <UIKit/UIKit.h>
 
 @implementation AppDelegate
 
+
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions
 {
+    NSString *music = [[NSBundle mainBundle] pathForResource:@"Pathway Background Music1" ofType:@"mp3"];
+    AudioPlayer1 = [[AVAudioPlayer alloc]initWithContentsOfURL:[NSURL fileURLWithPath:music] error:NULL];
+    AudioPlayer1.delegate = self;
+    AudioPlayer1.numberOfLoops = -1;
+    [AudioPlayer1 play];
+
+    
     // Override point for customization after application launch.
     return YES;
+    
+    
 }
 							
 - (void)applicationWillResignActive:(UIApplication *)application

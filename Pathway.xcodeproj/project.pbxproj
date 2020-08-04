@@ -7,6 +7,37 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		8009BF2118EE5AF9002754B8 /* real coin.png in Resources */ = {isa = PBXBuildFile; fileRef = 8009BF2018EE5AF9002754B8 /* real coin.png */; };
+		8009BF2D18EE6BE3002754B8 /* AVFoundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 8009BF2C18EE6BE3002754B8 /* AVFoundation.framework */; };
+		8009BF3118EE6E20002754B8 /* Pathway Background Music1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 8009BF3018EE6E20002754B8 /* Pathway Background Music1.mp3 */; };
+		8009BF3318EE75F0002754B8 /* Coin Sound.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 8009BF3218EE75F0002754B8 /* Coin Sound.mp3 */; };
+		8009BF3518EE75F9002754B8 /* explosion-01.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 8009BF3418EE75F9002754B8 /* explosion-01.mp3 */; };
+		8009BF3718EE75FE002754B8 /* Button clicks.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 8009BF3618EE75FE002754B8 /* Button clicks.mp3 */; };
+		8009BF3918EE7660002754B8 /* AudioToolbox.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 8009BF3818EE7660002754B8 /* AudioToolbox.framework */; };
+		8009BF4018EE83D8002754B8 /* Explosion4.png in Resources */ = {isa = PBXBuildFile; fileRef = 8009BF3F18EE83D8002754B8 /* Explosion4.png */; };
+		800B4CA618E26E02004CEEE4 /* #1coin.png in Resources */ = {isa = PBXBuildFile; fileRef = 800B4CA518E26E02004CEEE4 /* #1coin.png */; };
+		8010854C18F78F7E00FF41AD /* icon image29x29.png in Resources */ = {isa = PBXBuildFile; fileRef = 8010854B18F78F7E00FF41AD /* icon image29x29.png */; };
+		8010854E18F7910E00FF41AD /* icon image114x114.png in Resources */ = {isa = PBXBuildFile; fileRef = 8010854D18F7910E00FF41AD /* icon image114x114.png */; };
+		8021E49C18DE00DA005451D8 /* Play bttn1.png in Resources */ = {isa = PBXBuildFile; fileRef = 8021E49A18DE00DA005451D8 /* Play bttn1.png */; };
+		8021E49D18DE00DA005451D8 /* Optionbttn1.png in Resources */ = {isa = PBXBuildFile; fileRef = 8021E49B18DE00DA005451D8 /* Optionbttn1.png */; };
+		8021E4A118DE039E005451D8 /* Background.png in Resources */ = {isa = PBXBuildFile; fileRef = 8021E49F18DE039E005451D8 /* Background.png */; };
+		8021E4A418DE04E4005451D8 /* Game.m in Sources */ = {isa = PBXBuildFile; fileRef = 8021E4A318DE04E4005451D8 /* Game.m */; };
+		8021E4A618DE0A14005451D8 /* Ball1.png in Resources */ = {isa = PBXBuildFile; fileRef = 8021E4A518DE0A14005451D8 /* Ball1.png */; };
+		80337A8A18E64C36006C92B3 /* TextBackground.png in Resources */ = {isa = PBXBuildFile; fileRef = 80337A8918E64C36006C92B3 /* TextBackground.png */; };
+		80337A8D18EB0FE0006C92B3 /* launch screen#1.png in Resources */ = {isa = PBXBuildFile; fileRef = 80337A8B18EB0FE0006C92B3 /* launch screen#1.png */; };
+		80337A8E18EB0FE0006C92B3 /* launch screen#1, iphone4.png in Resources */ = {isa = PBXBuildFile; fileRef = 80337A8C18EB0FE0006C92B3 /* launch screen#1, iphone4.png */; };
+		80373E5D18EB188C0032AA92 /* Obstcle#1real.png in Resources */ = {isa = PBXBuildFile; fileRef = 80373E5C18EB188C0032AA92 /* Obstcle#1real.png */; };
+		80373E5F18EB1DC70032AA92 /* NewBall.png in Resources */ = {isa = PBXBuildFile; fileRef = 80373E5E18EB1DC70032AA92 /* NewBall.png */; };
+		80373E6118EB21A80032AA92 /* explosion3.png in Resources */ = {isa = PBXBuildFile; fileRef = 80373E6018EB21A80032AA92 /* explosion3.png */; };
+		8064C43A18F4C95F00994DE5 /* GameKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 8064C43918F4C95F00994DE5 /* GameKit.framework */; };
+		806B3DC218EB635400CB48AF /* GameOver.png in Resources */ = {isa = PBXBuildFile; fileRef = 806B3DC118EB635400CB48AF /* GameOver.png */; };
+		806B3DC618EB66E900CB48AF /* Explosion2.png in Resources */ = {isa = PBXBuildFile; fileRef = 806B3DC418EB66E900CB48AF /* Explosion2.png */; };
+		807C206A18EB73590064521C /* Screen Shot 2014-04-01 at 5.20.42 PM.png in Resources */ = {isa = PBXBuildFile; fileRef = 807C206918EB73590064521C /* Screen Shot 2014-04-01 at 5.20.42 PM.png */; };
+		807C207818ED0B7A0064521C /* Red Background.png in Resources */ = {isa = PBXBuildFile; fileRef = 807C207718ED0B7A0064521C /* Red Background.png */; };
+		807C207A18ED0C6D0064521C /* Red Background2.png in Resources */ = {isa = PBXBuildFile; fileRef = 807C207918ED0C6D0064521C /* Red Background2.png */; };
+		807C207C18ED16020064521C /* Replaybttn.png in Resources */ = {isa = PBXBuildFile; fileRef = 807C207B18ED16020064521C /* Replaybttn.png */; };
+		807C207E18ED16910064521C /* Exit bttn1.png in Resources */ = {isa = PBXBuildFile; fileRef = 807C207D18ED16910064521C /* Exit bttn1.png */; };
+		807C208018ED26D10064521C /* Back bttn1.png in Resources */ = {isa = PBXBuildFile; fileRef = 807C207F18ED26D10064521C /* Back bttn1.png */; };
 		8089A41218DD195500779B6D /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 8089A41118DD195500779B6D /* Foundation.framework */; };
 		8089A41418DD195500779B6D /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 8089A41318DD195500779B6D /* CoreGraphics.framework */; };
 		8089A41618DD195500779B6D /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 8089A41518DD195500779B6D /* UIKit.framework */; };
@@ -21,6 +52,16 @@
 		8089A43318DD195500779B6D /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 8089A41518DD195500779B6D /* UIKit.framework */; };
 		8089A43B18DD195500779B6D /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 8089A43918DD195500779B6D /* InfoPlist.strings */; };
 		8089A43D18DD195500779B6D /* PathwayTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 8089A43C18DD195500779B6D /* PathwayTests.m */; };
+		809786D218F3706200E18F21 /* Instructions4.png in Resources */ = {isa = PBXBuildFile; fileRef = 809786D118F3706200E18F21 /* Instructions4.png */; };
+		80AEAD2E18EFA5D6000B4DB0 /* icon2 80x80.png in Resources */ = {isa = PBXBuildFile; fileRef = 80AEAD2C18EFA5D6000B4DB0 /* icon2 80x80.png */; };
+		80DDBB0C18F3667000AE088A /* Instructions main.png in Resources */ = {isa = PBXBuildFile; fileRef = 80DDBB0B18F3667000AE088A /* Instructions main.png */; };
+		80E6253518F783F20006B7FD /* GameCenter IMGE.png in Resources */ = {isa = PBXBuildFile; fileRef = 80E6253418F783F20006B7FD /* GameCenter IMGE.png */; };
+		80E6253718F78B0F0006B7FD /* icon image57x57.png in Resources */ = {isa = PBXBuildFile; fileRef = 80E6253618F78B0F0006B7FD /* icon image57x57.png */; };
+		80EC145F18EFA8DA00D98842 /* icon3 120x120.png in Resources */ = {isa = PBXBuildFile; fileRef = 80EC145D18EFA8DA00D98842 /* icon3 120x120.png */; };
+		80EC146018EFA8DA00D98842 /* icon3 58x58.png in Resources */ = {isa = PBXBuildFile; fileRef = 80EC145E18EFA8DA00D98842 /* icon3 58x58.png */; };
+		80EC146418EFAF9B00D98842 /* iAd.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 80EC146318EFAF9B00D98842 /* iAd.framework */; };
+		80EC146A18EFCA2D00D98842 /* PathwayTitleReal.png in Resources */ = {isa = PBXBuildFile; fileRef = 80EC146918EFCA2D00D98842 /* PathwayTitleReal.png */; };
+		80EC146E18EFCB4000D98842 /* PathwayTitleLogo2.png in Resources */ = {isa = PBXBuildFile; fileRef = 80EC146D18EFCB4000D98842 /* PathwayTitleLogo2.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -34,6 +75,38 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		8009BF2018EE5AF9002754B8 /* real coin.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "real coin.png"; sourceTree = "<group>"; };
+		8009BF2C18EE6BE3002754B8 /* AVFoundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AVFoundation.framework; path = System/Library/Frameworks/AVFoundation.framework; sourceTree = SDKROOT; };
+		8009BF3018EE6E20002754B8 /* Pathway Background Music1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Pathway Background Music1.mp3"; sourceTree = "<group>"; };
+		8009BF3218EE75F0002754B8 /* Coin Sound.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Coin Sound.mp3"; sourceTree = "<group>"; };
+		8009BF3418EE75F9002754B8 /* explosion-01.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "explosion-01.mp3"; sourceTree = "<group>"; };
+		8009BF3618EE75FE002754B8 /* Button clicks.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Button clicks.mp3"; sourceTree = "<group>"; };
+		8009BF3818EE7660002754B8 /* AudioToolbox.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AudioToolbox.framework; path = System/Library/Frameworks/AudioToolbox.framework; sourceTree = SDKROOT; };
+		8009BF3F18EE83D8002754B8 /* Explosion4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Explosion4.png; sourceTree = "<group>"; };
+		800B4CA518E26E02004CEEE4 /* #1coin.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "#1coin.png"; sourceTree = "<group>"; };
+		8010854B18F78F7E00FF41AD /* icon image29x29.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icon image29x29.png"; sourceTree = "<group>"; };
+		8010854D18F7910E00FF41AD /* icon image114x114.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icon image114x114.png"; sourceTree = "<group>"; };
+		8021E49A18DE00DA005451D8 /* Play bttn1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Play bttn1.png"; sourceTree = "<group>"; };
+		8021E49B18DE00DA005451D8 /* Optionbttn1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Optionbttn1.png; sourceTree = "<group>"; };
+		8021E49F18DE039E005451D8 /* Background.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Background.png; sourceTree = "<group>"; };
+		8021E4A218DE04E4005451D8 /* Game.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = Game.h; path = ../Game.h; sourceTree = "<group>"; };
+		8021E4A318DE04E4005451D8 /* Game.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = Game.m; path = ../Game.m; sourceTree = "<group>"; };
+		8021E4A518DE0A14005451D8 /* Ball1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Ball1.png; sourceTree = "<group>"; };
+		80337A8918E64C36006C92B3 /* TextBackground.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = TextBackground.png; sourceTree = "<group>"; };
+		80337A8B18EB0FE0006C92B3 /* launch screen#1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "launch screen#1.png"; sourceTree = "<group>"; };
+		80337A8C18EB0FE0006C92B3 /* launch screen#1, iphone4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "launch screen#1, iphone4.png"; sourceTree = "<group>"; };
+		80373E5C18EB188C0032AA92 /* Obstcle#1real.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Obstcle#1real.png"; sourceTree = "<group>"; };
+		80373E5E18EB1DC70032AA92 /* NewBall.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = NewBall.png; sourceTree = "<group>"; };
+		80373E6018EB21A80032AA92 /* explosion3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = explosion3.png; sourceTree = "<group>"; };
+		8064C43918F4C95F00994DE5 /* GameKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = GameKit.framework; path = System/Library/Frameworks/GameKit.framework; sourceTree = SDKROOT; };
+		806B3DC118EB635400CB48AF /* GameOver.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = GameOver.png; sourceTree = "<group>"; };
+		806B3DC418EB66E900CB48AF /* Explosion2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Explosion2.png; sourceTree = "<group>"; };
+		807C206918EB73590064521C /* Screen Shot 2014-04-01 at 5.20.42 PM.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Screen Shot 2014-04-01 at 5.20.42 PM.png"; sourceTree = "<group>"; };
+		807C207718ED0B7A0064521C /* Red Background.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Red Background.png"; sourceTree = "<group>"; };
+		807C207918ED0C6D0064521C /* Red Background2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Red Background2.png"; sourceTree = "<group>"; };
+		807C207B18ED16020064521C /* Replaybttn.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Replaybttn.png; sourceTree = "<group>"; };
+		807C207D18ED16910064521C /* Exit bttn1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Exit bttn1.png"; sourceTree = "<group>"; };
+		807C207F18ED26D10064521C /* Back bttn1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Back bttn1.png"; sourceTree = "<group>"; };
 		8089A40E18DD195500779B6D /* Pathway.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Pathway.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		8089A41118DD195500779B6D /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		8089A41318DD195500779B6D /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
@@ -53,6 +126,16 @@
 		8089A43818DD195500779B6D /* PathwayTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "PathwayTests-Info.plist"; sourceTree = "<group>"; };
 		8089A43A18DD195500779B6D /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		8089A43C18DD195500779B6D /* PathwayTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = PathwayTests.m; sourceTree = "<group>"; };
+		809786D118F3706200E18F21 /* Instructions4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Instructions4.png; sourceTree = "<group>"; };
+		80AEAD2C18EFA5D6000B4DB0 /* icon2 80x80.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icon2 80x80.png"; sourceTree = "<group>"; };
+		80DDBB0B18F3667000AE088A /* Instructions main.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Instructions main.png"; sourceTree = "<group>"; };
+		80E6253418F783F20006B7FD /* GameCenter IMGE.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "GameCenter IMGE.png"; sourceTree = "<group>"; };
+		80E6253618F78B0F0006B7FD /* icon image57x57.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icon image57x57.png"; sourceTree = "<group>"; };
+		80EC145D18EFA8DA00D98842 /* icon3 120x120.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icon3 120x120.png"; sourceTree = "<group>"; };
+		80EC145E18EFA8DA00D98842 /* icon3 58x58.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icon3 58x58.png"; sourceTree = "<group>"; };
+		80EC146318EFAF9B00D98842 /* iAd.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = iAd.framework; path = System/Library/Frameworks/iAd.framework; sourceTree = SDKROOT; };
+		80EC146918EFCA2D00D98842 /* PathwayTitleReal.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = PathwayTitleReal.png; sourceTree = "<group>"; };
+		80EC146D18EFCB4000D98842 /* PathwayTitleLogo2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = PathwayTitleLogo2.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +143,10 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8064C43A18F4C95F00994DE5 /* GameKit.framework in Frameworks */,
+				80EC146418EFAF9B00D98842 /* iAd.framework in Frameworks */,
+				8009BF3918EE7660002754B8 /* AudioToolbox.framework in Frameworks */,
+				8009BF2D18EE6BE3002754B8 /* AVFoundation.framework in Frameworks */,
 				8089A41418DD195500779B6D /* CoreGraphics.framework in Frameworks */,
 				8089A41618DD195500779B6D /* UIKit.framework in Frameworks */,
 				8089A41218DD195500779B6D /* Foundation.framework in Frameworks */,
@@ -101,6 +188,10 @@
 		8089A41018DD195500779B6D /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
+				8064C43918F4C95F00994DE5 /* GameKit.framework */,
+				80EC146318EFAF9B00D98842 /* iAd.framework */,
+				8009BF3818EE7660002754B8 /* AudioToolbox.framework */,
+				8009BF2C18EE6BE3002754B8 /* AVFoundation.framework */,
 				8089A41118DD195500779B6D /* Foundation.framework */,
 				8089A41318DD195500779B6D /* CoreGraphics.framework */,
 				8089A41518DD195500779B6D /* UIKit.framework */,
@@ -117,6 +208,8 @@
 				8089A42318DD195500779B6D /* Main.storyboard */,
 				8089A42618DD195500779B6D /* ViewController.h */,
 				8089A42718DD195500779B6D /* ViewController.m */,
+				8021E4A218DE04E4005451D8 /* Game.h */,
+				8021E4A318DE04E4005451D8 /* Game.m */,
 				8089A42918DD195500779B6D /* Images.xcassets */,
 				8089A41818DD195500779B6D /* Supporting Files */,
 			);
@@ -126,6 +219,42 @@
 		8089A41818DD195500779B6D /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				80E6253618F78B0F0006B7FD /* icon image57x57.png */,
+				8010854B18F78F7E00FF41AD /* icon image29x29.png */,
+				8010854D18F7910E00FF41AD /* icon image114x114.png */,
+				80337A8C18EB0FE0006C92B3 /* launch screen#1, iphone4.png */,
+				80E6253418F783F20006B7FD /* GameCenter IMGE.png */,
+				809786D118F3706200E18F21 /* Instructions4.png */,
+				80DDBB0B18F3667000AE088A /* Instructions main.png */,
+				80EC146D18EFCB4000D98842 /* PathwayTitleLogo2.png */,
+				80EC146918EFCA2D00D98842 /* PathwayTitleReal.png */,
+				80EC145D18EFA8DA00D98842 /* icon3 120x120.png */,
+				80EC145E18EFA8DA00D98842 /* icon3 58x58.png */,
+				80AEAD2C18EFA5D6000B4DB0 /* icon2 80x80.png */,
+				8009BF3618EE75FE002754B8 /* Button clicks.mp3 */,
+				8009BF3418EE75F9002754B8 /* explosion-01.mp3 */,
+				8009BF3218EE75F0002754B8 /* Coin Sound.mp3 */,
+				8009BF3018EE6E20002754B8 /* Pathway Background Music1.mp3 */,
+				8009BF2018EE5AF9002754B8 /* real coin.png */,
+				807C207D18ED16910064521C /* Exit bttn1.png */,
+				807C207B18ED16020064521C /* Replaybttn.png */,
+				807C207918ED0C6D0064521C /* Red Background2.png */,
+				807C207F18ED26D10064521C /* Back bttn1.png */,
+				807C207718ED0B7A0064521C /* Red Background.png */,
+				807C206918EB73590064521C /* Screen Shot 2014-04-01 at 5.20.42 PM.png */,
+				806B3DC418EB66E900CB48AF /* Explosion2.png */,
+				80373E6018EB21A80032AA92 /* explosion3.png */,
+				8009BF3F18EE83D8002754B8 /* Explosion4.png */,
+				806B3DC118EB635400CB48AF /* GameOver.png */,
+				80373E5E18EB1DC70032AA92 /* NewBall.png */,
+				80373E5C18EB188C0032AA92 /* Obstcle#1real.png */,
+				80337A8B18EB0FE0006C92B3 /* launch screen#1.png */,
+				80337A8918E64C36006C92B3 /* TextBackground.png */,
+				800B4CA518E26E02004CEEE4 /* #1coin.png */,
+				8021E4A518DE0A14005451D8 /* Ball1.png */,
+				8021E49F18DE039E005451D8 /* Background.png */,
+				8021E49A18DE00DA005451D8 /* Play bttn1.png */,
+				8021E49B18DE00DA005451D8 /* Optionbttn1.png */,
 				8089A41918DD195500779B6D /* Pathway-Info.plist */,
 				8089A41A18DD195500779B6D /* InfoPlist.strings */,
 				8089A41D18DD195500779B6D /* main.m */,
@@ -199,6 +328,14 @@
 				LastUpgradeCheck = 0510;
 				ORGANIZATIONNAME = "K Studios";
 				TargetAttributes = {
+					8089A40D18DD195500779B6D = {
+						DevelopmentTeam = J8MQA9DQS6;
+						SystemCapabilities = {
+							com.apple.GameCenter = {
+								enabled = 1;
+							};
+						};
+					};
 					8089A42E18DD195500779B6D = {
 						TestTargetID = 8089A40D18DD195500779B6D;
 					};
@@ -228,9 +365,45 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				809786D218F3706200E18F21 /* Instructions4.png in Resources */,
+				80EC146018EFA8DA00D98842 /* icon3 58x58.png in Resources */,
+				80E6253518F783F20006B7FD /* GameCenter IMGE.png in Resources */,
+				80337A8A18E64C36006C92B3 /* TextBackground.png in Resources */,
+				80EC146E18EFCB4000D98842 /* PathwayTitleLogo2.png in Resources */,
+				80DDBB0C18F3667000AE088A /* Instructions main.png in Resources */,
+				8009BF3718EE75FE002754B8 /* Button clicks.mp3 in Resources */,
+				8021E49C18DE00DA005451D8 /* Play bttn1.png in Resources */,
+				807C206A18EB73590064521C /* Screen Shot 2014-04-01 at 5.20.42 PM.png in Resources */,
+				80373E5F18EB1DC70032AA92 /* NewBall.png in Resources */,
+				807C207E18ED16910064521C /* Exit bttn1.png in Resources */,
+				806B3DC618EB66E900CB48AF /* Explosion2.png in Resources */,
+				800B4CA618E26E02004CEEE4 /* #1coin.png in Resources */,
+				807C207A18ED0C6D0064521C /* Red Background2.png in Resources */,
 				8089A42A18DD195500779B6D /* Images.xcassets in Resources */,
+				8009BF3318EE75F0002754B8 /* Coin Sound.mp3 in Resources */,
+				8010854E18F7910E00FF41AD /* icon image114x114.png in Resources */,
+				8009BF3118EE6E20002754B8 /* Pathway Background Music1.mp3 in Resources */,
+				8009BF2118EE5AF9002754B8 /* real coin.png in Resources */,
+				8021E49D18DE00DA005451D8 /* Optionbttn1.png in Resources */,
+				80373E6118EB21A80032AA92 /* explosion3.png in Resources */,
+				8010854C18F78F7E00FF41AD /* icon image29x29.png in Resources */,
 				8089A41C18DD195500779B6D /* InfoPlist.strings in Resources */,
+				8009BF3518EE75F9002754B8 /* explosion-01.mp3 in Resources */,
+				806B3DC218EB635400CB48AF /* GameOver.png in Resources */,
+				80AEAD2E18EFA5D6000B4DB0 /* icon2 80x80.png in Resources */,
+				807C208018ED26D10064521C /* Back bttn1.png in Resources */,
+				80373E5D18EB188C0032AA92 /* Obstcle#1real.png in Resources */,
+				807C207C18ED16020064521C /* Replaybttn.png in Resources */,
+				80E6253718F78B0F0006B7FD /* icon image57x57.png in Resources */,
+				80EC145F18EFA8DA00D98842 /* icon3 120x120.png in Resources */,
 				8089A42518DD195500779B6D /* Main.storyboard in Resources */,
+				8021E4A118DE039E005451D8 /* Background.png in Resources */,
+				8009BF4018EE83D8002754B8 /* Explosion4.png in Resources */,
+				8021E4A618DE0A14005451D8 /* Ball1.png in Resources */,
+				807C207818ED0B7A0064521C /* Red Background.png in Resources */,
+				80337A8E18EB0FE0006C92B3 /* launch screen#1, iphone4.png in Resources */,
+				80337A8D18EB0FE0006C92B3 /* launch screen#1.png in Resources */,
+				80EC146A18EFCA2D00D98842 /* PathwayTitleReal.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -252,6 +425,7 @@
 				8089A42818DD195500779B6D /* ViewController.m in Sources */,
 				8089A42218DD195500779B6D /* AppDelegate.m in Sources */,
 				8089A41E18DD195500779B6D /* main.m in Sources */,
+				8021E4A418DE04E4005451D8 /* Game.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -376,10 +550,15 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				CODE_SIGN_IDENTITY = "iPhone Distribution";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution";
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "Pathway/Pathway-Prefix.pch";
 				INFOPLIST_FILE = "Pathway/Pathway-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 6.1;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "F376F1BD-90D6-4656-B55A-3598626B3D9B";
+				TARGETED_DEVICE_FAMILY = 1;
 				WRAPPER_EXTENSION = app;
 			};
 			name = Debug;
@@ -389,10 +568,15 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				CODE_SIGN_IDENTITY = "iPhone Distribution";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution";
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "Pathway/Pathway-Prefix.pch";
 				INFOPLIST_FILE = "Pathway/Pathway-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 6.1;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "F376F1BD-90D6-4656-B55A-3598626B3D9B";
+				TARGETED_DEVICE_FAMILY = 1;
 				WRAPPER_EXTENSION = app;
 			};
 			name = Release;
@@ -456,6 +640,7 @@
 				8089A44218DD195500779B6D /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		8089A44318DD195500779B6D /* Build configuration list for PBXNativeTarget "PathwayTests" */ = {
 			isa = XCConfigurationList;
@@ -464,6 +649,7 @@
 				8089A44518DD195500779B6D /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
